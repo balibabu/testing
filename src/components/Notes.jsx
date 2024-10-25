@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 export default function Notes() {
-    const [notes, setNotes] = useState(['note-1', 'note-2']);
+    const [notes, setNotes] = useState(['note-1', 'note-2','note-3']);
 
     return (
         <div>
